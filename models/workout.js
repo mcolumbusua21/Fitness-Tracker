@@ -28,10 +28,12 @@ const WorkoutSchema = new Schema({
       },
       sets: {
         type: Number,
-      },
-    },
+      }
+    }
   ],
 });
 
+const Workout =  mongoose.model('Workout', WorkoutSchema)
 
-module.exports.model('Workout', WorkoutSchema)
+
+module.exports = Workout;
