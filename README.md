@@ -64,8 +64,7 @@ It allows others to track their workouts. They will be able to save the workouts
 ## Photo
 
 ![Screen Shot 2021-04-19 at 11 16 01 AM](https://user-images.githubusercontent.com/78819536/115283900-dc1ea580-a100-11eb-869c-eb1240b62c0d.png)
-![Screen Shot 2021-04-19 at 11 17 52 AM](https://user-images.githubusercontent.com/78819536/115283907-de80ff80-a100-11eb-8701-aa0098c60732.png)
-
+![Screen Shot 2021-04-19 at 11 49 07 AM](https://user-images.githubusercontent.com/78819536/115287544-433e5900-a105-11eb-9229-43a292ab334c.png)
 
 ## Questions
 ​
