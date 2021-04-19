@@ -14,8 +14,6 @@ The purpose of this project was to create a way to track your workouts. This app
 
 * [Installation](#installation)
 
-* [Tests](#testing)
-
 * [Contact](#contact)
 
 * [GitHub](#GitHub)
